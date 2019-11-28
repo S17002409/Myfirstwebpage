@@ -1,0 +1,32 @@
+
+
+#para1 {
+    color: blue;
+}
+* {box-sizing:border-box}
+
+body{
+    background-image: url("us.jpg");
+    height: 50%;
+    width: 70%;
+    background-size: cover;
+}
+
+h1 {
+    color: black;
+    font-size: 33px; 
+
+}
+
+h2 {
+    color: black;
+    font-size: 30px;
+}
+
+*{
+    font-family: arial;
+color:white;
+font-size: 30px;
+
+}
+

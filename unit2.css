@@ -1,0 +1,25 @@
+body{
+    background-image: url("./pink.jpg");
+    height: 150%;
+    width: 100%;
+    background-size: cover;
+}
+p.solid {border-style: solid;}
+
+h1 {
+    color:darkslategrey;
+    font-size: 33px; 
+
+}
+
+h2 {
+    color: grey;
+    font-size: 30px;
+}
+
+*{
+    font-family: arial;
+color: white;
+font-size: 20px;
+
+}
